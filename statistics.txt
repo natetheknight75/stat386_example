@@ -1,0 +1,9 @@
+Curriculum Ideas
+
+- Boxplots
+- Regression
+- Bayes Thm
+
+
+-More ideas
+
