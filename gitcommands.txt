@@ -1,0 +1,34 @@
+    7  git status
+    8  git init
+    9  git status
+   13  rm -rf .git
+   16  git status
+   17  git add statistics.txt
+   18  git status
+   19  git add statistics.txt
+   20  git 
+   21  git init
+   22  git add statistics.txt
+   23  git status
+   24  git commit
+   25  git commit -m "Trying it out"
+   26  git log
+   27  git log --oneline
+   28  git status
+   29  git add .
+   30  git status
+   31  git status
+   32  git status
+   33  git add .
+   34  git commit - m 'Add files
+git commit - m 'Add files
+   35  git log
+   36  git log --oneline
+   37  git add .gitignore
+   40  git add .gitignore.txt
+   42  git commit -m .gitignore.txt
+   43  git status
+   44  git commit -m .gitignore.txt
+   45  git commit -m .gitignore
+   46  git status
+   59  history | grep 'git' > gitcommands.txt
